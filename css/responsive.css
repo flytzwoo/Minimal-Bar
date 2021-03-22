@@ -1,0 +1,31 @@
+@media screen and (max-width: 1275px) {
+	.footer-logo {
+		width: 50%;
+	}
+    .footer-menu {
+		width: 50%;
+	}
+    .footer-aide {
+		width: 50%;
+	}
+    .footer-contact {
+		width: 50%;
+	}
+}
+
+/* for mobile screen view */
+
+@media screen and (max-width: 660px) {
+	.footer-logo {
+		width: 100%;
+	}
+    .footer-menu {
+		width: 50%;
+	}
+    .footer-aide {
+		width: 50%;
+	}
+    .footer-contact {
+		width: 50%;
+	}
+}
