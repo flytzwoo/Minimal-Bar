@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Merriweather', c
+    src: local('Merriweather'), local('Corbel'),
+        url('Merriweather-Black.ttf') format('ttf'),
+        url('Merriweather-BlackItalic.ttf') format('ttf'),
+        url('Merriweather-Bold.ttf') format('ttf');,
+        font-weight: 700;
+    font-style: normal;
+  }

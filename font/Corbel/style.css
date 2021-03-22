@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Corbel';
+    src: local('Corbel Bold'), local('Corbel-Bold'),
+        url('Corbel-Bold.woff2') format('woff2'),
+        url('Corbel-Bold.woff') format('woff'),
+        url('Corbel-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+  }
